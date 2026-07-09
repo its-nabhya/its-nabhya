@@ -31,12 +31,12 @@ I’m a dual-degree student at **IIT Madras** (B.S. Data Science) and **Heritage
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=its-nabhya&show_icons=true&theme=radical&hide_border=true" alt="Nabhya's Github Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-nabhya&layout=compact&theme=radical&hide_border=true" alt="Nabhya's Top Languages" />
-</p>
+</p> -->
 
 ---
 
