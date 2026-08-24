@@ -108,27 +108,6 @@ Research into hallucinations occurring at the **LLM ↔ tool interaction layer**
 
 <br>
 
-## `github`
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=its-nabhya&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-nabhya&layout=compact&theme=github_dark&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=its-nabhya&theme=github-dark-blue&hide_border=true"
-  />
-</p>
-
-<br>
-
 ## `education`
 
 **Indian Institute of Technology Madras**
